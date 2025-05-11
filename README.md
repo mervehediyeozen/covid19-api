@@ -3,3 +3,4 @@
 
 ### Images for example 
 ![example](/covid-2.png)
+![example](/covid-1.png)
